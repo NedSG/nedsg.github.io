@@ -1,0 +1,64 @@
+.sound, .likes, .reposts, .comments, .lightning-left, .lightning-right, .notes, .facebook, .inst, .twitt{
+	background: url(sprites.png) no-repeat;
+}
+
+.sound{
+	background-position: 0 0;
+	width: 13px;
+	height: 17px;
+}
+
+.likes{
+	background-position: -20px -2px ;
+	width: 16px;
+	height: 15px;
+}
+
+.reposts{
+	background-position: -40px -2px ;
+	width: 16px;
+	height: 15px;
+}
+
+.comments{
+	background-position: -60px -2px ;
+	width: 15px;
+	height: 15px;
+}
+
+.lightning-left{
+	background-position: 0 -20px ;
+	width: 28px;
+	height: 8px;
+}
+
+.lightning-right{
+	background-position: -30px -20px ;
+	width: 28px;
+	height: 8px;
+}
+
+.notes{
+	background-position: -60px -20px ;
+	width: 25px;
+	height: 29px;
+}
+
+.facebook{
+	background-position: 0 -30px ;
+	width: 8px;
+	height: 17px;
+}
+
+.inst{
+	background-position: -15px -30px ;
+	width: 19px;
+	height: 19px;
+}
+
+.twitt{
+	background-position: -40px -30px ;
+	width: 16px;
+	height: 13px;
+}
+
