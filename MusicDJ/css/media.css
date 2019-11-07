@@ -1,0 +1,13 @@
+@media only screen 
+and (max-device-width : 1024px)
+/*and (-webkit-min-device-pixel-ratio: 2)*/ {
+	.header-nav__link {
+		-webkit-transform: scale(0);
+		-ms-transform: scale(0);
+		-o-transform: scale(0);
+		transform: scale(0);
+	}
+	.header-nav {
+		opacity: 0;
+	}
+}
